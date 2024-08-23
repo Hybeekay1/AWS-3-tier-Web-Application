@@ -73,43 +73,41 @@ By following these security best practices, the AWS web application architecture
 
 ## File Structure
 
-___ 
-
-├── infrastructure
-│ ├── main.tf
-│ ├── variables.tf
-│ ├── outputs.tf
-│ ├── terraform.tfvars
-│ └── provider.tf
-├── modules
-│ ├── vpc
-│ │ ├── main.tf
-│ │ ├── variables.tf
-│ │ ├── outputs.tf
-│ ├── security_groups
-│ │ ├── main.tf
-│ │ ├── variables.tf
-│ │ ├── outputs.tf
-│ ├── ec2
-│ │ ├── main.tf
-│ │ ├── variables.tf
-│ │ ├── outputs.tf
-│ ├── alb
-│ │ ├── main.tf
-│ │ ├── variables.tf
-│ │ ├── outputs.tf
-│ ├── rds
-│ │ ├── main.tf
-│ │ ├── variables.tf
-│ │ ├── outputs.tf
-│ ├── s3
-│ │   ├── main.tf
-│ │   ├── variables.tf
-│ │   ├── outputs.tf
-│ └── iam
-│     ├── main.tf
-│     ├── variables.tf
-│     └── outputs.tf
+    ├── infrastructure
+    │ ├── main.tf
+    │ ├── variables.tf
+    │ ├── outputs.tf
+    │ ├── terraform.tfvars
+    │ └── provider.tf
+    ├── modules
+    │ ├── vpc
+    │ │ ├── main.tf
+    │ │ ├── variables.tf
+    │ │ ├── outputs.tf
+    │ ├── security_groups
+    │ │ ├── main.tf
+    │ │ ├── variables.tf
+    │ │ ├── outputs.tf
+    │ ├── ec2
+    │ │ ├── main.tf
+    │ │ ├── variables.tf
+    │ │ ├── outputs.tf
+    │ ├── alb
+    │ │ ├── main.tf
+    │ │ ├── variables.tf
+    │ │ ├── outputs.tf
+    │ ├── rds
+    │ │ ├── main.tf
+    │ │ ├── variables.tf
+    │ │ ├── outputs.tf
+    │ ├── s3
+    │ │   ├── main.tf
+    │ │   ├── variables.tf
+    │ │   ├── outputs.tf
+    │ └── iam
+    │     ├── main.tf
+    │     ├── variables.tf
+    │     └── outputs.tf
 
 
 ## Getting Started
