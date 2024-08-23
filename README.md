@@ -63,9 +63,6 @@ This document outlines the security best practices implemented in the AWS web ap
   - Use encrypted storage for RDS.
 
 
-- **Automated Security Assessments:**  
-  Utilize AWS Security Hub, Amazon Inspector, and AWS Config to continuously monitor and assess the security posture of the architecture. These tools help ensure compliance with AWS security best practices and identify potential vulnerabilities.
-
 ---
 
 By following these security best practices, the AWS web application architecture is designed to protect sensitive data and resources effectively while maintaining high availability and scalability.
