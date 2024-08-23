@@ -20,5 +20,6 @@ resource "aws_db_instance" "webapp" {
   multi_az                = true
   publicly_accessible     = false
   skip_final_snapshot     = true
+  storage_encrypted       = true
 }
 
