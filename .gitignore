@@ -1,0 +1,6 @@
+**/terraform.tfstate*
+**/.terraform.lock.hcl
+**/.terraform
+**/.trash
+**/builds/
+**/id_rsa*
