@@ -58,7 +58,6 @@ This document outlines the security best practices implemented in the AWS web ap
 ## 6. Additional Security Considerations
 
 - **Encryption:**  
-  - Implement encryption for data at rest and in transit.
   - Enable server-side encryption for S3 buckets.
   - Use encrypted storage for RDS.
 
