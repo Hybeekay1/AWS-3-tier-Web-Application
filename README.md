@@ -158,7 +158,6 @@ aws sts get-caller-identity
     availability_zones = ["us-west-2a", "us-west-2b"]
     db_identifier    = "mydbinstance"
     db_username      = "admin"
-    db_password      = "yourpassword"
     s3_bucket_name   = "my-s3-bucket-name"
     ```
 
