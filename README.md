@@ -1,3 +1,4 @@
+
 # AWS Scalable Web Application Architecture
 
 This Terraform configuration sets up a scalable AWS web application architecture using modular Terraform configurations. It includes the necessary resources such as VPC, EC2 instances, ALB, RDS, and S3 buckets, with a focus on scalability, fault tolerance, and cost efficiency.
